@@ -72,6 +72,158 @@ Focus on semantic HTML and readability.
 
 ![image](https://github.com/user-attachments/assets/e7dbdfa9-2fbd-4d0d-ba93-1411cfdf400d)
 
+## CSS Code:
+
+```
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+.profile-container {
+    max-width: 600px;
+    margin: auto;
+    background-color: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.header-section h1 {
+    text-align: center;
+    color: #2c3e50;
+    font-size: 2.5em;
+    margin-bottom: 10px;
+}
+
+.header-section h2 {
+    text-align: center;
+    color: #3498db;
+    font-size: 1.5em;
+    margin: 5px 0;
+}
+
+.header-section h3 {
+    text-align: center;
+    color: #27ae60;
+    font-size: 1.2em;
+    margin: 5px 0;
+}
+
+.image-section img {
+    display: block;
+    margin: auto;
+    border-radius: 50%;
+    border: 4px solid #3498db;
+}
+
+.about-section {
+    background-color: #ecf0f1;
+    padding: 20px;
+    border-radius: 8px;
+    margin: 20px 0;
+    border-left: 4px solid #3498db;
+}
+
+.about-section h2 {
+    color: #2c3e50;
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.about-section p {
+    line-height: 1.6;
+    text-align: justify;
+    margin: 0;
+}
+
+.skills-section {
+    background-color: #e8f5e8;
+    padding: 20px;
+    border-radius: 8px;
+    margin: 20px 0;
+    border-left: 4px solid #27ae60;
+}
+
+.skills-section h2 {
+    color: #2c3e50;
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.skills-section p {
+    line-height: 1.6;
+    margin: 10px 0;
+}
+
+.education-section {
+    background-color: #fef9e7;
+    padding: 20px;
+    border-radius: 8px;
+    margin: 20px 0;
+    border-left: 4px solid #f39c12;
+}
+
+.education-section h2 {
+    color: #2c3e50;
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.education-section p {
+    line-height: 1.6;
+    text-align: justify;
+    margin: 0;
+}
+
+.contact-section {
+    background-color: #fdedec;
+    padding: 20px;
+    border-radius: 8px;
+    margin: 20px 0;
+    border-left: 4px solid #e74c3c;
+}
+
+.contact-section h2 {
+    color: #2c3e50;
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.contact-section p {
+    line-height: 1.6;
+    margin: 8px 0;
+}
+
+hr {
+    border: none;
+    height: 2px;
+    background-color: #bdc3c7;
+    margin: 25px 0;
+}
+
+section {
+    margin: 25px 0;
+}
+
+strong {
+    color: #2c3e50;
+}
+
+```
+
+## Output:
+
+![image](https://github.com/user-attachments/assets/80a1225d-c6e6-4d38-9753-7c3f2b74ba7e)
+
+![image](https://github.com/user-attachments/assets/ab423338-4456-4956-ad3a-ae9cd74c49d1)
+
+![image](https://github.com/user-attachments/assets/c392ddcc-c3b2-4f04-9698-97284ae81d2e)
+
+
+
 
 ## Result:
 A simple Profile Page using HTML that displays a user's profile image, name, headings, and a short bio, suitable for personal or academic purposes is designed successfully.
